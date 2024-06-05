@@ -1,0 +1,10 @@
+/config/*
+/cache/
+/uploads/
+
+*.bak
+*.swp
+*~
+*.tmp
+/vendor/
+/xampp/
